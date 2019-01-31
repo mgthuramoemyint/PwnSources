@@ -1,11 +1,13 @@
 # PwnSources
 # Need More Resources -_-
 
-How to heap -:https://github.com/shellphish/how2heap
-Heap Challenges -: https://github.com/soez/heap-challenges
+How to heap -:
+https://github.com/shellphish/how2heap
+
+Heap Challenges -: 
+https://github.com/soez/heap-challenges
 
 Python sandbox Escape -:
-
 https://www.slideshare.net/tzanany/escaping-the-python-sandbox
 
 Kernel Exploitation -:
