@@ -1,5 +1,4 @@
 # PwnSources
-# Need More Resources -_-
 
 # How to heap -:
 https://github.com/shellphish/how2heap
