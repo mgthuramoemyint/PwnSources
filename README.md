@@ -25,4 +25,5 @@ https://github.com/Naetw/CTF-pwn-tips
 # Nice source -:
 
 https://hackinhat.today
+
 https://www.ret2rop.com/2018/08/return-to-plt-got-to-bypass-aslr-remote.html
