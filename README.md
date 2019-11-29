@@ -27,3 +27,6 @@ https://github.com/Naetw/CTF-pwn-tips
 https://hackinhat.today
 
 https://www.ret2rop.com/2018/08/return-to-plt-got-to-bypass-aslr-remote.html
+
+# Pwn and own the world xD -:
+https://j00ru.vexillium.org/slides/2015/insomnihack.pdf
